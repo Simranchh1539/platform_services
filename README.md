@@ -4,16 +4,16 @@ In this application we have demo of different platform services like bluetooth a
 
 ## Packages Used:
   
-  1. google_maps_flutter
-  2. geolocator
-  3. geocoding
-  4. path_provider
-  5. image_picker
-  6. camera
-  7. flutter_blue
-  8. timezone
-  9. animated_background
-  10. flutter_local_notifications
+  1. google_maps_flutter (https://pub.dev/packages/google_maps_flutter/versions/0.5.27+1)
+  2. geolocator (https://pub.dev/packages/geolocator/versions/6.0.0+3)
+  3. geocoding  (https://pub.dev/packages/geocoding/versions/1.0.0)
+  4. path_provider (https://pub.dev/packages/path_provider/versions/1.6.7)
+  5. image_picker (https://pub.dev/packages/image_picker/versions/0.6.6+1)
+  6. camera (https://pub.dev/packages/camera/versions/0.5.7+4)
+  7. flutter_blue (https://pub.dev/packages/flutter_blue/versions/0.7.0)
+  8. timezone (any)
+  9. animated_background (https://pub.dev/packages/animated_background/versions/1.0.5)
+  10. flutter_local_notifications (any)
 
 ## Features:
 
