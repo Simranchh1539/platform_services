@@ -1,6 +1,6 @@
 # Platform Services
 
-In this application we have demo of different platform services like bluetooth and locations.
+In this application we have demo of different platform services like bluetooth, google map and locations.
 
 ## Packages Used:
   
